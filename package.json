@@ -16,6 +16,7 @@
     "redux": "^5.0.1",
     "web-vitals": "^2.1.4"
   },
+  "homepage": "https://ibrben.github.io/deartoday_web",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
