@@ -1,0 +1,173 @@
+
+@font-face {
+    font-family: custom-B;
+    src: url('Kanit-Regular.ttf');
+}
+@font-face {
+    font-family:custom;
+    src:url('Kanit-Light.ttf');
+}
+:root {
+    font-family: custom;
+}
+.custom-font {
+    font-family: custom;
+}
+
+.navbar {
+    width: 100vw;
+    background-color: rgb(113, 101, 101);
+}
+
+.navbar a {    
+    align-items: center;
+    justify-content: center;
+    justify-items: center;
+}
+.logo {
+    height: 35px;
+}
+.full-page {
+    height: 100%;
+    width: 100%;
+}
+.side-bar {
+    background-color:dimgray;
+    color: rgb(181, 181, 181);
+    height: 100%;
+    padding: 10px;
+
+    box-shadow: -20px 1px 40px -30px rgba(0,0,0,0.99) inset;
+    -webkit-box-shadow: -20px 1px 40px -30px rgba(0,0,0,0.99) inset;
+    -moz-box-shadow: -20px 1px 40px -30px rgba(0,0,0,0.99) inset;
+
+    overflow: hidden;
+}
+.side-bar-menu {
+    padding: 10px;
+}
+.side-bar-menu:hover {
+    background-color: grey;
+}
+.side-bar-menu a, .side-bar-menu a:visited, .side-bar-menu a:hover {
+    color: lightgrey;
+    text-decoration: none;
+    font-family: custom;
+}
+.side-bar-menu a {
+    font-size: 110%;
+}
+div.no-right-padding {
+    padding-right: 0;
+}
+div.no-left-padding {
+    padding-left: 0;
+}
+div.no-padding {
+    padding-left: 0;
+    padding-right: 0;
+}
+div.no-margin {
+    margin-left: 0;
+    margin-right: 0;
+}
+.main-section {
+    padding: 20px;
+}
+.box {
+    background-color: rgb(237, 215, 170);
+    margin-top: 20px;
+    padding:10px;
+    border-color: black;
+    border: 1px;
+    border-radius: 10px;
+
+    position: relative;
+    width: 100%;
+    margin-bottom: 15px;
+
+}
+.h100 {
+    height: 160px;
+}
+.h220 {
+    height: 340px;
+}
+.big-card {
+}
+.card-container {
+    position: relative;
+    width: 100%;
+    height: 200px; /* Adjust the height of the card */
+    overflow: hidden;
+}
+
+.card-img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+.card-topic {
+    position: absolute;
+    bottom: 10px;
+    right: 10px;
+    background-color: rgba(0, 0, 0, 0.5);
+    color: white;
+    padding: 5px;
+    font-size: 14px;
+}
+/* Add this to your custom.css file */
+
+.language-switch-btn {
+    background: none;
+    border: none;
+    color: #666;
+    padding: 5px 10px;
+    margin-left: auto;
+    border-radius: 4px;
+    cursor: pointer;
+    font-weight: 500;
+    transition: all 0.3s ease;
+  }
+  
+  .language-switch-btn:hover {
+    background-color: rgba(0, 0, 0, 0.05);
+    color: #333;
+  }
+  
+  /* Optional: Add styles for active language */
+  .language-switch-btn.active {
+    font-weight: bold;
+    color: #333;
+  }
+  
+  /* Responsive adjustments */
+  @media (max-width: 768px) {
+    .language-switch-btn {
+      margin-top: 10px;
+      margin-left: 5px;
+    }
+  }
+  .profile-card {
+    background-color: #e3cece;
+    border-radius: 15px;
+    transition: all 0.3s ease;
+    padding: 15px;
+    max-height: 100rem;
+    
+  }
+  .profile-card:hover{
+    transition-duration: 0.5s;
+    background-color: #f2d5b6;
+    border-radius: 5px;
+    
+  }
+  .profile-img {
+    border-radius: 10px;
+    float: right;
+    position:sticky;
+    max-height: 150px;
+    margin-top: -30px;
+    
+  }
