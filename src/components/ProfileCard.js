@@ -1,5 +1,5 @@
 import React from 'react'
-import { Container, Col, Row, Navbar} from 'react-bootstrap'
+
 
 // Sub-components
 const ProfilePic = ({ src, alt = "Profile picture", className = "", ...props }) => {
