@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/dear-today-web/static/css/main.b9a4382d.css",
-    "main.js": "/dear-today-web/static/js/main.6f522231.js",
-    "static/js/453.999b968e.chunk.js": "/dear-today-web/static/js/453.999b968e.chunk.js",
-    "static/media/Kanit-Regular.ttf": "/dear-today-web/static/media/Kanit-Regular.6a45a65ea3befe6947f3.ttf",
-    "static/media/Kanit-Light.ttf": "/dear-today-web/static/media/Kanit-Light.5e3639b08fc141a28c30.ttf",
-    "static/media/dearToday.PNG": "/dear-today-web/static/media/dearToday.b07f797d5abce0cbab7c.PNG",
-    "index.html": "/dear-today-web/index.html",
-    "main.b9a4382d.css.map": "/dear-today-web/static/css/main.b9a4382d.css.map",
-    "main.6f522231.js.map": "/dear-today-web/static/js/main.6f522231.js.map",
-    "453.999b968e.chunk.js.map": "/dear-today-web/static/js/453.999b968e.chunk.js.map"
+    "main.css": "/static/css/main.0f7e811d.css",
+    "main.js": "/static/js/main.49de4201.js",
+    "static/js/453.999b968e.chunk.js": "/static/js/453.999b968e.chunk.js",
+    "static/media/Kanit-Regular.ttf": "/static/media/Kanit-Regular.6a45a65ea3befe6947f3.ttf",
+    "static/media/Kanit-Light.ttf": "/static/media/Kanit-Light.5e3639b08fc141a28c30.ttf",
+    "static/media/dearToday.PNG": "/static/media/dearToday.b07f797d5abce0cbab7c.PNG",
+    "index.html": "/index.html",
+    "main.0f7e811d.css.map": "/static/css/main.0f7e811d.css.map",
+    "main.49de4201.js.map": "/static/js/main.49de4201.js.map",
+    "453.999b968e.chunk.js.map": "/static/js/453.999b968e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.b9a4382d.css",
-    "static/js/main.6f522231.js"
+    "static/css/main.0f7e811d.css",
+    "static/js/main.49de4201.js"
   ]
 }
