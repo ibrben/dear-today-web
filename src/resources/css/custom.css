@@ -16,7 +16,7 @@
 
 .navbar {
     width: 100vw;
-    background-color: rgb(113, 101, 101);
+    background-color: rgb(255, 212, 175);
 }
 
 .navbar a {    
@@ -150,7 +150,7 @@ div.no-margin {
     }
   }
   .profile-card {
-    background-color: #e3cece;
+    background-color: #ffe3cd;
     border-radius: 15px;
     transition: all 0.3s ease;
     padding: 15px;
@@ -169,5 +169,6 @@ div.no-margin {
     position:sticky;
     max-height: 150px;
     margin-top: -30px;
+    transform: rotateX(15);
     
   }

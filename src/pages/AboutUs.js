@@ -23,7 +23,7 @@ const AboutUs = props => {
                 id: 1,
                 name: 'Mahom',
                 description: `Nakrapas Mahom, born and raised in Bangkok. Enjoy traveling and start solo traveling all around Thailand since 23. The job that gave me the money to travel back then was producing and selling shrimp medicine to private shrimp farms. At first, she used to travel just to relax and see beautiful places, but after a while, that kind of travel didn’t excite her anymore. So, she changed things up and started camping, trekking, and getting into local culture. One time, she even stayed with villagers to experience their daily life—doing everything they did and going everywhere they went. That experience made her feel like she had found a second family. She loved it so much that she kept going back to live that same simple, meaningful life again and again.`,
-                photo: 'https://scontent.fbkk5-4.fna.fbcdn.net/v/t39.30808-6/436197104_8175214259179133_3341062305840447452_n.jpg?stp=cp6_dst-jpg_tt6&_nc_cat=103&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=YA3XdFaLGAEQ7kNvwEhwVlO&_nc_oc=AdlV_GFejqhE4TSBn5Q50GwwX1G39yNF49herFCNrAoVVO10YMI9fjpBlEc1AI7cKLTmW5K-S1snFvKqU6Dmp4jU&_nc_zt=23&_nc_ht=scontent.fbkk5-4.fna&_nc_gid=D_RSulpQDoW4aAPYTwyJyA&oh=00_AfK9jNto2LPyI1-sBfV6pjkheq7n25jt6YjJ6HJ2yNgyUg&oe=682525E9',
+                photo: require('../resources/img/plcHolder.png'),
                 avatarPlaceholder: true
               },
               {
@@ -45,14 +45,14 @@ const AboutUs = props => {
                 that day, nature has become the main inspiration and energy in my art.
                 Nature teaches me to be present, and to understand myself more. The more time I spend with it, the more I want to care for it
                 and learn from it. Sometimes, I feel like nature is happy to be part of my creation.`,
-                photo: 'https://scontent.fbkk5-1.fna.fbcdn.net/v/t39.30808-6/480290216_9480551402002566_5980131914372546149_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=833d8c&_nc_ohc=98bXSAzc0FYQ7kNvwE7r4SS&_nc_oc=AdlRaBClGydnNhCUc6L9MSq7sfP8y1JH44IkbNg4tfo5mAyA0OUOmfEQF78NRn_O624SgtZMoJqyWHmwBr3OPGLC&_nc_zt=23&_nc_ht=scontent.fbkk5-1.fna&_nc_gid=1olPLbr7bS9xkdwKZf9ZCQ&oh=00_AfI6dW2LjcUaP_oNGlGFLH7uqDDe6mrOZDAh8P5VZRINqg&oe=68261B81',
+                photo: require('../resources/img/plcHolder.png'),
                 avatarPlaceholder: true
               },
               {
                 id: 3,
-                name: "Malik/Ibrahim",
+                name: "Malik",
                 description: `An average IT guy ( a software engineer ) who pasionate in nature, hiking, camping. Along side each hobbies he also doing crafted cacao that grown from Narathiwat, his home town and also own little brand of upcycling bag named "WolfMoon".`,
-                photo: "https://scontent.fbkk5-5.fna.fbcdn.net/v/t39.30808-6/420777732_7272647606091846_7696168247719726399_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=0xj4LK1ZAWsQ7kNvwFpau2P&_nc_oc=Adn5Jmf73-AgqUlDfGKbP8ez_tzDshQ58RRhKa6InDZ7I7ui5er0vo_p7oHWcx5HQCmKv31UXnVTW4F7Y2UfsefB&_nc_zt=23&_nc_ht=scontent.fbkk5-5.fna&_nc_gid=Xeo80X9MGq-DfZYXi5I3ug&oh=00_AfK6qNuKpvKVcxrPOa7MeoksFZNzQ86zswJwNIebLgrQLw&oe=6826938F",
+                photo: require('../resources/img/plcHolder.png'),
                 avatarPlaceholder:true
               }
             ];
