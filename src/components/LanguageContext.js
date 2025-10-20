@@ -7,6 +7,7 @@ const translations = {
     navEvents: 'Upcoming Events',
     navAboutUs: 'About Us',
     headerWeAre: 'We are . . .',
+    introduce: "",
     // Add more translations as needed
   },
   th: {
@@ -14,6 +15,7 @@ const translations = {
     navEvents: 'กิจกรรมที่ต่อไป',
     navAboutUs: 'รู้จักพวกเรา',
     headerWeAre: 'พวกเราคือ . . .',
+    introduce: "",
     
     // Add more translations as needed
   }
