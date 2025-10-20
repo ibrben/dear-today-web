@@ -9,7 +9,7 @@ function App() {
   return (
     <LanguageProvider>
     <Routes>
-      <Route path="/" element={<Home/>}/>
+      <Route path="/" element={<ViewAllEvents/>}/>
       <Route path="/event" element={<ViewAllEvents/>} />
       <Route path="/aboutus" element={<AboutUs/>} />
     </Routes>

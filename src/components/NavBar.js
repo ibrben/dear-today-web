@@ -14,7 +14,7 @@ return (
             <Container className='custom-font'>
                 
                 <Nav>
-                <Navbar.Brand href="#home"><a href="/"><img className='logo' alt="deartoday" src={require('../resources/img/dearToday.PNG')} /></a></Navbar.Brand>
+                <Navbar.Brand href="#home"><a href="/"><img className='logo' alt="HomeStray" src={require('../resources/img/dearToday.PNG')} /></a></Navbar.Brand>
                     {/*<Nav.Link href="/"><h4>{translate('navTravel')}</h4></Nav.Link>*/}
                     <Nav.Link href="/event" className={currPage === '/event' ? 'active' : ''}><h4>{translate('navEvents')}</h4></Nav.Link>
                     <Nav.Link href="/aboutus" className={currPage === '/aboutus' ? 'active' : ''}><h4>{translate('navAboutUs')}</h4></Nav.Link>

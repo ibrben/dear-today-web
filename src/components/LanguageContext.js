@@ -29,7 +29,7 @@ export const LanguageContext = createContext();
 export const LanguageProvider = ({ children }) => {
   // Get initial language from localStorage or default to Thai
   const [currentLanguage, setCurrentLanguage] = useState(
-    localStorage.getItem('language') || 'th'
+    localStorage.getItem('language') || 'en'
   );
 
   // Save language choice to localStorage whenever it changes
